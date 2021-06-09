@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1623221615916.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2110878431",
+    "id" : "44B41513",
+    "lastKnownWriteTime" : 1623223449,
+    "last_content_update" : 1623223449113,
+    "path" : "C:/Users/vadim/OneDrive/Рабочий стол/HSE/hse21_H3K9ac_ZDNA_human/src/len_hist.R",
+    "project_path" : "len_hist.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

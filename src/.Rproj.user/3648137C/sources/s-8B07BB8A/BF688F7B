@@ -1,0 +1,26 @@
+{
+    "id": "BF688F7B",
+    "path": "C:/Users/vadim/OneDrive/Рабочий стол/HSE/hse21_H3K9ac_ZDNA_human/src/filter_peaks.R",
+    "project_path": "filter_peaks.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1623231450999.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1623223447,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1623223447,
+    "read_only": false,
+    "read_only_alternatives": []
+}
