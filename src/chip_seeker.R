@@ -1,14 +1,13 @@
 source('lib.R')
 
-
-install.packages("installr")
-library(installr)
-installr::updateR()
 ###
 
  if (!requireNamespace("BiocManager", quietly = TRUE))
    install.packages("BiocManager")
  BiocManager::install("TxDb.Hsapiens.UCSC.hg19.knownGene")
+ BiocManager::install("ChIPseeker")
+ BiocManager::install("clusterProfiler")
+ BiocManager::install("org.Hs.eg.db")
  #BiocManager::install("TxDb.Mmusculus.UCSC.mm10.knownGene")
 
 library(ChIPseeker)
@@ -18,8 +17,8 @@ library(clusterProfiler)
 
 ###
 
-#NAME <- 'H3K4me3_A549.ENCFF573MUH.hg19.filtered'
-NAME <- 'H3K4me3_A549.ENCFF832EOL.hg19.filtered'
+#NAME <- 'H3K9ac_K562_ENCFF280OVN_hg19.filtered'
+NAME <- 'H3K9ac_K562_ENCFF568DJI_hg19.filtered'
 BED_FN <- paste0(DATA_DIR, NAME, '.bed')
 
 ###
