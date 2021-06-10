@@ -88,10 +88,13 @@ https://github.com/vadim299/hse21_H3K9ac_G4_human/blob/main/Data/H3K9ac_K562.int
 track visibility=dense name="intersect_with_G4_seq_Li_K"  color=200,0,0  description="H3K9ac_K562.intersect_with_G4.bed"
 https://github.com/vadim299/hse21_H3K9ac_G4_human/blob/main/Data/G4_seq_Li_K.merge.bed?raw=true
 ```
-Место пересечение между гистоновой меткой и стр-рой ДНК. (Координаты: chr3:12,329,573-12,329,883. [Сохраненная сессия](https://github.com/vadim299/hse21_H3K9ac_G4_human/blob/main/session))
+Место пересечение между гистоновой меткой и стр-рой ДНК. 
+
+Координаты: chr3:12,329,573-12,329,883. [Сохраненная сессия](https://github.com/vadim299/hse21_H3K9ac_G4_human/blob/main/session)
 ![a](https://github.com/vadim299/hse21_H3K9ac_G4_human/blob/main/images/genome.ucsc.screen.png)
 
 Ассоциируем полученные пересечения с ближайшими генами ([Скрипт](https://github.com/vadim299/hse21_H3K9ac_G4_human/blob/main/src/ChIPpeakAnno.R))
+
 [14734 пиков](https://github.com/vadim299/hse21_H3K9ac_G4_human/blob/main/Data/H3K9ac_K562.intersect_with_DeepZ.genes.txt) из них [9005 уникальных](https://github.com/vadim299/hse21_H3K9ac_G4_human/blob/main/Data/H3K9ac_K562.intersect_with_DeepZ.genes_uniq.txt).
 
 Go-анализ
