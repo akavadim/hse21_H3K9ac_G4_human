@@ -3,7 +3,7 @@
     "path": "C:/Users/vadim/OneDrive/Рабочий стол/HSE/hse21_H3K9ac_ZDNA_human/src/len_hist.R",
     "project_path": "len_hist.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2427780077",
     "contents": "",
     "dirty": false,
     "created": 1623232355666.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,82",
+        "cursorPosition": "9,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1623284297,
+    "lastKnownWriteTime": 1623287762,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1623284297529,
+    "last_content_update": 1623287762043,
     "read_only": false,
     "read_only_alternatives": []
 }

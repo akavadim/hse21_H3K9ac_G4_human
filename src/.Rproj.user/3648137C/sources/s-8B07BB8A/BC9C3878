@@ -3,9 +3,9 @@
     "path": "C:/Users/vadim/OneDrive/Рабочий стол/HSE/hse21_H3K9ac_ZDNA_human/src/chip_seeker.R",
     "project_path": "chip_seeker.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2605721662",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1623230651310.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1623254355,
+    "lastKnownWriteTime": 1623287024,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1623271723477,
+    "last_content_update": 1623287024575,
     "read_only": false,
     "read_only_alternatives": []
 }
