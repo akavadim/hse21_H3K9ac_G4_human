@@ -3,7 +3,7 @@
 
 |Организм    |DNA_structure|histone_mark|Тип клеток|.bed файл 1  |.bed файл 2  |
 |------------|-------------|------------|----------|-------------|-------------|
-|human (hg19)|[G4_seq_Li_K]|H3K9ac      |K562      |[ENCFF568DJI]|[ENCFF280OVN]|
+|human (hg19)|[G4_seq_Li_K]|H3K9ac      |K562      |[ENCFF280OVN]|[ENCFF568DJI]|
 
 ## Анализ пиков гистоновой метки
 Были скачаны 2 файла и помещены в папку Data ([ENCFF568DJI] и [ENCFF280OVN]) 
@@ -39,7 +39,7 @@ liftOver   H3K9ac_K562_ENCFF568DJI_hg38.bed   hg38ToHg19.over.chain.gz   H3K9ac_
 
 Для постройки пай-чартов используется [данный скрипт](https://github.com/vadim299/hse21_H3K9ac_G4_human/blob/main/src/chip_seeker.R)
 
-Пай-чарт для [ENCFF568DJI]
+Пай-чарт для [ENCFF280OVN]
 
 ![a](https://github.com/vadim299/hse21_H3K9ac_G4_human/blob/main/images/chip_seeker.H3K9ac_K562_ENCFF280OVN_hg19.filtered.plotAnnoPie.png)
 
